@@ -103,13 +103,14 @@ footer input{
     background-color: rgba(0, 0, 0, 0.555);
     top: 0px;
     width: 100%;
-    overflow-y: auto; 
+    
 }
 .menu{
     display: flex;
     flex-direction: column;
     left: 0px;
     z-index: 11;
+    overflow-y: auto; 
     
     width: 72%;
     background-color: wheat;

@@ -111,7 +111,7 @@ footer input{
     left: 0px;
     z-index: 11;
     overflow-y: auto; 
-    
+    height:400px;
     width: 72%;
     background-color: wheat;
 }

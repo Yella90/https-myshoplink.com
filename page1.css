@@ -110,7 +110,7 @@ footer input{
     flex-direction: column;
     left: 0px;
     z-index: 11;
-    height: 100%;
+    
     width: 72%;
     background-color: wheat;
 }

@@ -150,6 +150,8 @@ article {
     background-color: aquamarine;
     height: 50px;
     width: 100%;
+    top:0px;
+    position:sticky;
 }
 .menuh h2{
     font-size: 25px;
